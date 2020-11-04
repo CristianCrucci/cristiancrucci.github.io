@@ -1,0 +1,38 @@
+* {
+    font-family: "Open Sans Condensed";
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+#Crucci {
+    width: 250px; 
+    height: 250px;
+    border-radius: 50%;
+    
+}
+
+#card {
+    width: 45%;
+    column-count: 2;
+    margin-top: 100px;
+
+}
+
+#cursos {
+    margin: 0px 150px;
+}
+
+hr {
+    border-color: #919191;
+}
+
+#skills li {
+	background-color: #334057;
+	color: #FFFFFF;
+	border: 3px solid #FFFFFF;
+	border-radius: 15px 15px 40px 40px;
+    padding-left: 30px;
+    margin: 0 auto;
+    list-style: none;
+}
+
