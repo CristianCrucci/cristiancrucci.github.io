@@ -45,3 +45,9 @@ hr {
     list-style: none;
 }
 
+@media (max-width:576px) {
+    .w-75 {
+        width: 98% !important;
+    }
+}
+
