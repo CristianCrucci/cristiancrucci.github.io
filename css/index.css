@@ -61,3 +61,20 @@ hr {
     }
 }
 
+#linkedin {
+    width: 30px;
+    border-radius: 5px;
+    -webkit-transition: all 300 ease-in-out;
+    -moz-transition: all 300 ease-in-out;
+    -o-transition: all 300 ease-in-out;
+    -ms-transition: all 300 ease-in-out;
+}
+
+#linkedin:hover {
+    transform: scale(1.25);
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+}
+
